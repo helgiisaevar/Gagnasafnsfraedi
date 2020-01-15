@@ -1,0 +1,315 @@
+Dæmi 1
+---------------------------------------------------------
+94
+
+Dæmi 2
+---------------------------------------------------------
+250	Elva Friðgeirsdóttir
+251	Björn Björgvinsson
+248	Jóna Rúnarsdóttir
+
+Dæmi 3
+---------------------------------------------------------
+143	Benedikt Jónuson
+193	Geir Ármannsson
+97	Geir Benediktsson
+28	Sunneva Friðgeirsdóttir
+21	Jón Friðgeirsson
+129	Gunnar Ármannsson
+61	Kristján Gunnarsson
+241	Friðgeir Björnsson
+60	Elva Sunnevudóttir
+177	Geir Ármannsson
+107	Ármann Kristjánsson
+216	Gréta Gunnarsdóttir
+122	Sunneva Benediktsdóttir
+209	Rúnar Gunnarsson
+154	Ása Björnsdóttir
+83	Friðgeir Jónsson
+192	Jóna Geirsdóttir
+79	Rúnar Björnsson
+67	Geir Kristjánsson
+8	Jóna Sunnevudóttir
+147	Benedikt Friðgeirsson
+90	Gréta Kristjánsdóttir
+140	Lovísa Ármannsdóttir
+57	Geir Björnsson
+207	Kristján Ármannsson
+128	Helga Björgvinsdóttir
+120	Jóna Björnsdóttir
+160	Elva Geirsdóttir
+153	Björn Friðgeirsson
+43	Björn Jónsson
+50	Jóna Huldudóttir
+0	Gréta Geirsdóttir
+252	Helga Ármannsdóttir
+185	Friðgeir Rúnarsson
+4	Gréta Björnsdóttir
+25	Geir Jónsson
+58	Angela Geirsdóttir
+88	Gréta Rúnarsdóttir
+234	Ása Ármannsdóttir
+124	Eva Gunnarsdóttir
+184	Eva Kristjánsdóttir
+45	Friðgeir Björnsson
+103	Rúnar Gunnarsson
+31	Kristján Kristjánsson
+52	Jóna Ármannsdóttir
+7	Gunnar Benediktsson
+30	Elva Björnsdóttir
+86	Hulda Gunnarsdóttir
+40	Angela Rúnarsdóttir
+183	Björn Ármannsson
+13	Ármann Geirsson
+91	Geir Geirsson
+46	Lovísa Gunnarsdóttir
+54	Lovísa Ármannsdóttir
+232	Sunneva Benediktsdóttir
+172	Angela Jónsdóttir
+15	Björgvin Friðgeirsson
+158	Hulda Björgvinsdóttir
+144	Hulda Jónsdóttir
+6	Sunneva Friðgeirsdóttir
+59	Kristján Benediktsson
+189	Friðgeir Lovísuson
+121	Geir Benediktsson
+37	Friðgeir Friðgeirsson
+249	Kristján Ármannsson
+164	Angela Björnsdóttir
+9	Jón Elvuson
+228	Elva Geirsdóttir
+113	Ármann Ásuson
+24	Elva Kristjánsdóttir
+214	Eva Geirsdóttir
+66	Ása Jónsdóttir
+56	Eva Gunnarsdóttir
+55	Rúnar Björgvinsson
+190	Eva Grétudóttir
+116	Angela Friðgeirsdóttir
+100	Helga Kristjánsdóttir
+94	Hulda Sunnevudóttir
+95	Benedikt Geirsson
+39	Jón Friðgeirsson
+155	Ármann Kristjánsson
+87	Rúnar Gunnarsson
+93	Björgvin Geirsson
+81	Rúnar Friðgeirsson
+130	Eva Björgvinsdóttir
+1	Jón Björgvinsson
+169	Benedikt Friðgeirsson
+225	Ármann Geirsson
+51	Benedikt Kristjánsson
+133	Björgvin Ármannsson
+17	Rúnar Björnsson
+138	Jóna Ármannsdóttir
+137	Rúnar Björnsson
+75	Björn Kristjánsson
+36	Hulda Jónsdóttir
+23	Friðgeir Gunnarsson
+16	Ása Lovísudóttir
+35	Friðgeir Geirsson
+101	Gunnar Friðgeirsson
+150	Elva Björgvinsdóttir
+188	Gréta Grétudóttir
+110	Ása Rúnarsdóttir
+77	Ármann Benediktsson
+32	Hulda Huldudóttir
+48	Jóna Kristjánsdóttir
+2	Eva Rúnarsdóttir
+53	Gunnar Angeluson
+64	Hulda Jónsdóttir
+156	Ása Geirsdóttir
+72	Angela Friðgeirsdóttir
+170	Helga Björgvinsdóttir
+197	Kristján Benediktsson
+131	Friðgeir Jónuson
+11	Friðgeir Kristjánsson
+106	Elva Jónudóttir
+134	Jóna Jónsdóttir
+109	Rúnar Friðgeirsson
+201	Geir Jónsson
+203	Geir Friðgeirsson
+18	Gréta Benediktsdóttir
+12	Ása Ármannsdóttir
+85	Friðgeir Ármannsson
+29	Rúnar Benediktsson
+44	Sunneva Sunnevudóttir
+125	Geir Björnsson
+62	Hulda Friðgeirsdóttir
+73	Gunnar Sunnevuson
+10	Jóna Jónsdóttir
+74	Helga Geirsdóttir
+173	Ármann Kristjánsson
+142	Sunneva Angeludóttir
+63	Geir Friðgeirsson
+114	Lovísa Rúnarsdóttir
+132	Elva Jónsdóttir
+70	Gréta Björnsdóttir
+151	Gunnar Jónsson
+33	Benedikt Rúnarsson
+217	Jón Ármannsson
+178	Sunneva Friðgeirsdóttir
+49	Geir Elvuson
+152	Angela Rúnarsdóttir
+14	Eva Geirsdóttir
+157	Kristján Ármannsson
+78	Helga Sunnevudóttir
+71	Friðgeir Björnsson
+
+Dæmi 4
+---------------------------------------------------------
+0	Gréta Geirsdóttir
+1	Jón Björgvinsson
+3	Benedikt Evuson
+11	Friðgeir Kristjánsson
+16	Ása Lovísudóttir
+18	Gréta Benediktsdóttir
+19	Björn Kristjánsson
+24	Elva Kristjánsdóttir
+29	Rúnar Benediktsson
+41	Gunnar Geirsson
+53	Gunnar Angeluson
+64	Hulda Jónsdóttir
+67	Geir Kristjánsson
+80	Jóna Friðgeirsdóttir
+85	Friðgeir Ármannsson
+98	Hulda Friðgeirsdóttir
+103	Rúnar Gunnarsson
+106	Elva Jónudóttir
+116	Angela Friðgeirsdóttir
+119	Geir Geirsson
+128	Helga Björgvinsdóttir
+150	Elva Björgvinsdóttir
+154	Ása Björnsdóttir
+164	Angela Björnsdóttir
+166	Hulda Elvudóttir
+169	Benedikt Friðgeirsson
+182	Gréta Lovísudóttir
+196	Sunneva Rúnarsdóttir
+225	Ármann Geirsson
+
+Dæmi 5
+---------------------------------------------------------
+4	Pole Vault	5.52
+6	Discus	25.20
+2	Triple Jump	13.15
+3	Shot Put	16.66
+0	High Jump	2.11
+5	Javelin	60.46
+1	Long Jump	6.78
+
+Dæmi 6
+---------------------------------------------------------
+2	Eva Rúnarsdóttir	2
+17	Rúnar Björnsson	3
+25	Geir Jónsson	22
+126	Gréta Björnsdóttir	2
+
+Dæmi 7
+---------------------------------------------------------
+18	Gréta Benediktsdóttir	1.74	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	5.52	Pole Vault	yes
+16	Ása Lovísudóttir	    1.79	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	5.52	Pole Vault	yes
+196	Sunneva Rúnarsdóttir	1.68	13.15	Triple Jump	yes
+126	Gréta Björnsdóttir	    1.78	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	16.66	Shot Put	yes
+0	Gréta Geirsdóttir	    1.74	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	2.11	High Jump	yes
+25	Geir Jónsson	        1.85	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	13.15	Triple Jump	yes
+25	Geir Jónsson	        1.85	16.66	Shot Put	yes
+25	Geir Jónsson	        1.85	5.52	Pole Vault	yes
+25	Geir Jónsson	        1.85	60.46	Javelin	    yes
+221	Benedikt Ármannsson	    1.73	25.2	Discus	    no
+119	Geir Geirsson	        1.89	6.78	Long Jump	yes
+2	Eva Rúnarsdóttir	    1.68	2.11	High Jump	yes
+1	Jón Björgvinsson	    1.83	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	6.78	Long Jump	yes
+126	Gréta Björnsdóttir	    1.78	6.78	Long Jump	yes
+154	Ása Björnsdóttir	    1.67	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	5.52	Pole Vault	yes
+25	Geir Jónsson	        1.85	16.66	Shot Put	yes
+64	Hulda Jónsdóttir	    1.65	13.15	Triple Jump	yes
+17	Rúnar Björnsson	        1.86	6.78	Long Jump	yes
+11	Friðgeir Kristjánsson	1.84	2.11	High Jump	yes
+25	Geir Jónsson	        1.85	5.52	Pole Vault	yes
+85	Friðgeir Ármannsson	    1.75	6.78	Long Jump	yes
+106	Elva Jónudóttir	        1.66	6.78	Long Jump	yes
+164	Angela Björnsdóttir	    1.72	2.11	High Jump	yes
+169	Benedikt Friðgeirsson	1.73	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	16.66	Shot Put	yes
+67	Geir Kristjánsson	    1.87	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	2.11	High Jump	yes
+41	Gunnar Geirsson	        1.81	6.78	Long Jump	yes
+98	Hulda Friðgeirsdóttir	1.73	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	13.15	Triple Jump	yes
+80	Jóna Friðgeirsdóttir	1.63	6.78	Long Jump	yes
+29	Rúnar Benediktsson	    1.88	2.11	High Jump	yes
+182	Gréta Lovísudóttir	    1.73	6.78	Long Jump	yes
+3	Benedikt Evuson	        1.83	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	13.15	Triple Jump	yes
+19	Björn Kristjánsson	    1.77	6.78	Long Jump	yes
+166	Hulda Elvudóttir	    1.67	6.78	Long Jump	yes
+103	Rúnar Gunnarsson	    1.89	2.11	High Jump	yes
+25	Geir Jónsson	        1.85	6.78	Long Jump	yes
+128	Helga Björgvinsdóttir	1.68	6.78	Long Jump	yes
+24	Elva Kristjánsdóttir	1.61	2.11	High Jump	yes
+225	Ármann Geirsson	        1.87	2.11	High Jump	yes
+25	Geir Jónsson	        1.85	6.78	Long Jump	yes
+17	Rúnar Björnsson	        1.86	6.78	Long Jump	yes
+2	Eva Rúnarsdóttir	    1.68	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	2.11	High Jump	yes
+116	Angela Friðgeirsdóttir	1.71	6.78	Long Jump	yes
+25	Geir Jónsson	        1.85	13.15	Triple Jump	yes
+53	Gunnar Angeluson	    1.79	6.78	Long Jump	yes
+17	Rúnar Björnsson	        1.86	5.52	Pole Vault	yes
+25	Geir Jónsson	        1.85	2.11	High Jump	yes
+150	Elva Björgvinsdóttir	1.63	6.78	Long Jump	yes
+
+
+Dæmi 8
+---------------------------------------------------------
+202
+
+Dæmi 9
+---------------------------------------------------------
+
+0	Gréta Geirsdóttir
+1	Jón Björgvinsson
+2	Eva Rúnarsdóttir
+3	Benedikt Evuson
+11	Friðgeir Kristjánsson
+16	Ása Lovísudóttir
+17	Rúnar Björnsson
+18	Gréta Benediktsdóttir
+19	Björn Kristjánsson
+24	Elva Kristjánsdóttir
+25	Geir Jónsson
+29	Rúnar Benediktsson
+41	Gunnar Geirsson
+53	Gunnar Angeluson
+64	Hulda Jónsdóttir
+67	Geir Kristjánsson
+80	Jóna Friðgeirsdóttir
+85	Friðgeir Ármannsson
+98	Hulda Friðgeirsdóttir
+103	Rúnar Gunnarsson
+106	Elva Jónudóttir
+116	Angela Friðgeirsdóttir
+119	Geir Geirsson
+126	Gréta Björnsdóttir
+128	Helga Björgvinsdóttir
+150	Elva Björgvinsdóttir
+154	Ása Björnsdóttir
+164	Angela Björnsdóttir
+166	Hulda Elvudóttir
+169	Benedikt Friðgeirsson
+182	Gréta Lovísudóttir
+196	Sunneva Rúnarsdóttir
+225	Ármann Geirsson
+
+
+
+Dæmi 10
+---------------------------------------------------------

@@ -1,0 +1,63 @@
+dæmi 1
+
+select p.name, r.result
+from people p
+inner join results r on p.id = r.peopleid
+inner join sports s on r.sportid = s.id
+where r.result >= s.record
+group by p.name, r.result;
+
+--Dæmi 2
+
+select p.name, r.result
+from people p
+inner join results r on p.id = r.peopleid
+where r.result = (
+  select min(R2.result)
+  from results r2
+  );
+
+--Dæmi 3
+--1:
+
+select p.name, p.gender,s.name
+from people p, sports s
+where p.gender = 'M'
+intersect
+select p2.name, p2.gender,s.name
+from people p2, sports s
+where s.name = 'High Jump'
+
+--2:
+
+select p.name, p.gender, p.height
+  from people p
+  where p.gender = 'F'
+  and p.height in (
+    select p.height
+    from people p
+    where p.height > 1.70
+  );
+
+--Dæmi 4
+
+--1:
+
+select distinct p.id as id, p.name as name
+from people p
+full join results r on r.peopleid = P.id
+where r.result is Null;
+
+
+--2:
+
+SELECT P.ID, P.name
+    FROM People P
+    WHERE P.height > 1.70
+EXCEPT
+    SELECT P.ID, P.name
+    FROM People P
+        JOIN Results R ON R.peopleID = P.ID
+        JOIN Sports S ON R.sportID = S.ID
+    WHERE S.name = 'High Jump'
+        AND R.result > 1.50;

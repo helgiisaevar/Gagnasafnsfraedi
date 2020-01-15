@@ -1,0 +1,98 @@
+-- Daemi 1
+S r.peopleid as id, r.result
+    from results r
+    where r.result is null; 
+
+--daemi 2
+select p.id as id, p.name as name
+    from people P
+except
+select p.id as id, p.name as name
+    from people P
+    inner join results r on r.peopleid = P.id;
+
+-- Daemi 3
+select distinct p.id, p.name
+    FROM ((people p
+        inner join results r on p.id = r.peopleid)
+        inner join competitions c on r.competitionid = c.id)
+    where date_part('year', c.held) = 2002
+    and date_part('month', c.held) = 06
+    group by p.id, p.name
+UNION
+select distinct p2.id, p2.name
+    from ((people p2
+        inner join results r2 on p2.id = r2.peopleid)
+        inner join sports s2 on r2.sportid = s2.id)
+        where r2.sportid = 0
+        and r2.result = s2.record
+        group by p2.id, p2.name;
+
+-- Daemi 4
+select distinct p.id, p.name
+    from ((people p
+        inner join results r on p.id = r.peopleid)
+        inner join sports s on r.sportid = s.id)
+    where r.result = s.record
+        group by p.id
+        having count(s.id = r.result) = 1;
+
+-- Dæmi 5
+select s.id, s.name, cast(max(result) as decimal(10,2)) as maxres
+    from sports s, results r
+        where s.id = r.sportid
+        group by s.id, s.name;
+
+-- daemi 6
+select distinct p.id, p.name, count(r.result)
+    from ((people p
+        inner join results r on p.id = r.peopleid)
+        inner join sports s on r.sportid = s.id)
+    where r.result = s.record
+        group by p.id
+        having count(s.record = r.result) >= 2;
+
+-- Dæmi 7
+SELECT people.id,
+       people.name,
+       people.height,
+       results.result,
+       sports.name,
+       (case when results.result = sports.record then 'yes' else 'no' end)
+        AS "record?"
+FROM people, results, sports, (SELECT results.sportid, MAX(result) AS max
+FROM results
+GROUP BY results.sportid) AS A
+WHERE sports.id = results.sportid
+    AND people.id = results.peopleid
+    AND results.result = A.max
+    AND results.sportid = A.sportid;
+
+
+-- daemi 8
+SELECT COUNT(Y.peopleid)
+        FROM (SELECT X.peopleid
+        FROM (SELECT DISTINCT peopleid,
+        (SELECT place FROM competitions
+    WHERE id = competitionid)
+        FROM results ORDER BY peopleid) X GROUP BY X.peopleid
+        HAVING COUNT(X.peopleid)>=10) Y;
+
+-- daemi 9
+
+SELECT id, name
+FROM people
+WHERE id In (
+		SELECT peopleid
+		FROM results, sports
+		WHERE result = record AND sportid = id
+);
+
+-- Daemi 10
+
+SELECT S.ID, S.name, S.record, MIN(R.result)
+FROM Sports S
+    JOIN Results R ON S.ID = R.sportID JOIN Competitions C
+        ON R.competitionID = C.IDGROUP BY
+        S.ID HAVING COUNT(DISTINCT C.place) = (SELECT COUNT(DISTINCT place)
+        FROM Competitions);

@@ -1,0 +1,199 @@
+dæmi 1: 
+
+
+Björn Björnsson	13.15
+Kristján Geirsson	6.78
+Elva Kristjánsdóttir	6.78
+Gunnar Hulduson	6.78
+Ása Evudóttir	6.78
+Björn Björnsson	6.78
+
+dæmi 2:
+Friðgeir Gunnarsson	1.06
+Geir Grétuson	1.06
+Ása Friðgeirsdóttir	1.06
+
+
+
+hluti 2: 
+
+Sunneva Björnsdóttir	F	1.71
+Hulda Evudóttir	F	1.77
+Hulda Björgvinsdóttir	F	1.72
+Hulda Kristjánsdóttir	F	1.71
+Lovísa Benediktsdóttir	F	1.72
+Gréta Rúnarsdóttir	F	1.73
+Lovísa Sunnevudóttir	F	1.73
+Sunneva Björgvinsdóttir	F	1.72
+Hulda Jónsdóttir	F	1.73
+Angela Gunnarsdóttir	F	1.72
+Eva Björgvinsdóttir	F	1.79
+Ása Friðgeirsdóttir	F	1.75
+Hulda Kristjánsdóttir	F	1.79
+Jóna Jónsdóttir	F	1.72
+Ása Geirsdóttir	F	1.76
+Sunneva Friðgeirsdóttir	F	1.72
+Ása Björgvinsdóttir	F	1.71
+Hulda Geirsdóttir	F	1.72
+Gréta Huldudóttir	F	1.76
+Jóna Benediktsdóttir	F	1.78
+Helga Björgvinsdóttir	F	1.73
+Ása Evudóttir	F	1.73
+Jóna Benediktsdóttir	F	1.73
+Sunneva Kristjánsdóttir	F	1.74
+Angela Friðgeirsdóttir	F	1.79
+Gréta Elvudóttir	F	1.76
+Hulda Jónsdóttir	F	1.75
+Ása Friðgeirsdóttir	F	1.77
+Elva Benediktsdóttir	F	1.78
+Sunneva Friðgeirsdóttir	F	1.73
+Sunneva Helgudóttir	F	1.77
+Jóna Geirsdóttir	F	1.71
+Gréta Jónsdóttir	F	1.73
+Angela Rúnarsdóttir	F	1.71
+Angela Elvudóttir	F	1.77
+Hulda Björnsdóttir	F	1.74
+Lovísa Benediktsdóttir	F	1.73
+Lovísa Gunnarsdóttir	F	1.74
+Hulda Friðgeirsdóttir	F	1.74
+Ása Geirsdóttir	F	1.75
+Hulda Kristjánsdóttir	F	1.77
+Jóna Sunnevudóttir	F	1.79
+Gréta Kristjánsdóttir	F	1.79
+Elva Friðgeirsdóttir	F	1.77
+Angela Geirsdóttir	F	1.76
+Ása Geirsdóttir	F	1.71
+Jóna Friðgeirsdóttir	F	1.76
+Elva Gunnarsdóttir	F	1.79
+Sunneva Jónudóttir	F	1.77
+Angela Gunnarsdóttir	F	1.73
+Eva Ásudóttir	F	1.76
+Hulda Geirsdóttir	F	1.79
+Hulda Benediktsdóttir	F	1.75
+Ása Benediktsdóttir	F	1.78
+
+
+
+Dæmi 4: 
+
+
+Sunneva Björnsdóttir	F	1.71
+Hulda Evudóttir	F	1.77
+Hulda Björgvinsdóttir	F	1.72
+Hulda Kristjánsdóttir	F	1.71
+Lovísa Benediktsdóttir	F	1.72
+Gréta Rúnarsdóttir	F	1.73
+Lovísa Sunnevudóttir	F	1.73
+Sunneva Björgvinsdóttir	F	1.72
+Hulda Jónsdóttir	F	1.73
+Angela Gunnarsdóttir	F	1.72
+Eva Björgvinsdóttir	F	1.79
+Ása Friðgeirsdóttir	F	1.75
+Hulda Kristjánsdóttir	F	1.79
+Jóna Jónsdóttir	F	1.72
+Ása Geirsdóttir	F	1.76
+Sunneva Friðgeirsdóttir	F	1.72
+Ása Björgvinsdóttir	F	1.71
+Hulda Geirsdóttir	F	1.72
+Gréta Huldudóttir	F	1.76
+Jóna Benediktsdóttir	F	1.78
+Helga Björgvinsdóttir	F	1.73
+Ása Evudóttir	F	1.73
+Jóna Benediktsdóttir	F	1.73
+Sunneva Kristjánsdóttir	F	1.74
+Angela Friðgeirsdóttir	F	1.79
+Gréta Elvudóttir	F	1.76
+Hulda Jónsdóttir	F	1.75
+Ása Friðgeirsdóttir	F	1.77
+Elva Benediktsdóttir	F	1.78
+Sunneva Friðgeirsdóttir	F	1.73
+Sunneva Helgudóttir	F	1.77
+Jóna Geirsdóttir	F	1.71
+Gréta Jónsdóttir	F	1.73
+Angela Rúnarsdóttir	F	1.71
+Angela Elvudóttir	F	1.77
+Hulda Björnsdóttir	F	1.74
+Lovísa Benediktsdóttir	F	1.73
+Lovísa Gunnarsdóttir	F	1.74
+Hulda Friðgeirsdóttir	F	1.74
+Ása Geirsdóttir	F	1.75
+Hulda Kristjánsdóttir	F	1.77
+Jóna Sunnevudóttir	F	1.79
+Gréta Kristjánsdóttir	F	1.79
+Elva Friðgeirsdóttir	F	1.77
+Angela Geirsdóttir	F	1.76
+Ása Geirsdóttir	F	1.71
+Jóna Friðgeirsdóttir	F	1.76
+Elva Gunnarsdóttir	F	1.79
+Sunneva Jónudóttir	F	1.77
+Angela Gunnarsdóttir	F	1.73
+Eva Ásudóttir	F	1.76
+Hulda Geirsdóttir	F	1.79
+Hulda Benediktsdóttir	F	1.75
+Ása Benediktsdóttir	F	1.78
+
+
+
+2 hluti:  
+
+195	Gunnar Björnsson
+121	Kristján Gunnarsson
+113	Björgvin Jónsson
+183	Björgvin Björgvinsson
+187	Geir Geirsson
+72	Gréta Huldudóttir
+155	Gunnar Friðgeirsson
+62	Ása Geirsdóttir
+186	Angela Gunnarsdóttir
+159	Björn Ármannsson
+133	Björgvin Geirsson
+198	Ása Benediktsdóttir
+189	Kristján Rúnarsson
+68	Ása Björgvinsdóttir
+191	Björgvin Friðgeirsson
+90	Angela Friðgeirsdóttir
+136	Lovísa Gunnarsdóttir
+156	Elva Friðgeirsdóttir
+181	Gunnar Rúnarsson
+194	Hulda Geirsdóttir
+180	Sunneva Jónudóttir
+115	Björgvin Rúnarsson
+199	Ármann Gunnarsson
+197	Friðgeir Benediktsson
+79	Björn Björnsson
+196	Hulda Benediktsdóttir
+176	Jóna Friðgeirsdóttir
+138	Hulda Friðgeirsdóttir
+92	Gréta Elvudóttir
+75	Björn Geirsson
+157	Geir Ármannsson
+149	Jón Geirsson
+123	Gunnar Kristjánsson
+151	Kristján Björnsson
+87	Benedikt Ármannsson
+169	Friðgeir Geirsson
+193	Benedikt Benediktsson
+170	Ása Geirsdóttir
+173	Geir Friðgeirsson
+132	Hulda Björnsdóttir
+148	Jóna Sunnevudóttir
+167	Jón Grétuson
+142	Hulda Kristjánsdóttir
+77	Ármann Rúnarsson
+63	Geir Hulduson
+177	Benedikt Benediktsson
+179	Geir Friðgeirsson
+185	Benedikt Rúnarsson
+76	Helga Björgvinsdóttir
+25	Björn Björnsson
+41	Jón Ármannsson
+178	Elva Gunnarsdóttir
+131	Ármann Gunnarsson
+107	Geir Hulduson
+168	Angela Geirsdóttir
+119	Friðgeir Sunnevuson
+111	Geir Jónsson
+188	Eva Ásudóttir
+104	Elva Benediktsdóttir
+53	Geir Kristjánsson
+40	Angela Gunnarsdóttir
